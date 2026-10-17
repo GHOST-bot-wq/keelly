@@ -1,0 +1,19 @@
+{
+  "name": "kelly-rezende-divina-derma",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional de alto padrão para Kelly Rezende | Divina Derma — Estética Facial Avançada",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node -e \"console.log('Site institucional Kelly Rezende pronto')\""
+  },
+  "keywords": [
+    "estetica-facial",
+    "divina-derma",
+    "kelly-rezende",
+    "melasma",
+    "laser"
+  ],
+  "author": "Kelly Rezende",
+  "license": "UNLICENSED"
+}
